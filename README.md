@@ -1,4 +1,4 @@
-/b My Discord: maksyaka
+My Discord: maksyaka
 
 <!-- # ⭕ Tic-Tac-Toe -->
 
